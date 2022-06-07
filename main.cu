@@ -14,7 +14,7 @@ click on commit and check the green check mark.*cr
 int main (int argc, char *argv[])
 {
     //set standard seed
-    srand(117);
+    srand(217);
 
     Timer timer;
     cudaError_t cuda_ret;
